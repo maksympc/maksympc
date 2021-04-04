@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maksympc
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning SSR and website optimization
-- 💞️ I’m looking to collaborate on short-term projects
+- 💞️ I’m looking to collaborate on React-based projects
 - 📫 How to reach me: maksympc@gmail.com
 
 My page: https://pinchuk.dev
