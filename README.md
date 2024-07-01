@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React-based projects
 - 📫 How to reach me: maksympc@gmail.com
 
-My page: https://pinchuk.dev
+My page: https://pinchuk.dev <br/>
 Pet project: https://iknowflags.com/
 
 <!---
