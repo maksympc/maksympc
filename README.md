@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maksympc
+- 👋 Hi, I’m Maksym
 - 👀 I’m passionate about Web Development
 - 🎸 I enjoy playing guitar and spending time outdoors, especially walking
 - ♟️ I’m currently learning how to play chess
